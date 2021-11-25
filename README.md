@@ -1,2 +1,2 @@
 # Praticando
-Treinando SKILL'S
+Treinando SKILLS
