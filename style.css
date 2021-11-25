@@ -72,6 +72,7 @@ body{
     display: inline-block;
     width: 100%;
     padding: 10px 40px;
+    cursor: pointer;
 }
 
 #sidebar ul li:hover{
@@ -84,4 +85,5 @@ body{
     color: #fff;
     font-size: 1.2em;
     letter-spacing: 2px;
+    
 }
