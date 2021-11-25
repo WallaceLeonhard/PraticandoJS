@@ -1,2 +1,2 @@
-# PraticandoJS
+# Praticando
 Treinando SKILL'S
